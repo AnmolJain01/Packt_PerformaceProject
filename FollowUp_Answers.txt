@@ -1,0 +1,11 @@
+1. Why did you use this particular tool?
+
+Main purpose to use this tool is that this tool is easy to understand, open source and free to use. It do not required any library or anything elso to install to work upon. As it also support different kind of test reports like CSV report, Graph report etc which helps a user to analyze in better way.
+
+2. How did you create /refactor the test script?
+
+Firs I analyze the requirement and figured out what all things I need to create a test script and what all steps I have to perform to achieve the goal. Then I start adding elements in my test plan and come up with a test script which will test my defined application for defined your count and return me a result in CSV format.
+
+3. What can you analyse from the report?
+
+After analysing the report I believe our application is working fine as none of the thread fails while test run and through put was also good at the end but performance can be more good because as per the report Connection time is looking good but Elapsed time, Latency displyaing that they took more then a second some time which is not a ideal case as value of Elapsed Time & Latency should be under 1 second.
